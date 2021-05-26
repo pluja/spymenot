@@ -227,6 +227,7 @@ Remember: Without strong encryption, you will be spied on systematically by lots
 
 **Alternatives to Instagram**
 - [Pixelfed](https://pixelfed.org/) - Decentralized, federated and Open Source alternative to Instagram with posts, videos, stories, tags, etc.
+- [Haven](https://havenweb.org/) - Self-hosted (or paid), Open Source private blogging platform.  Markdown editing, supports images, video, and private RSS.
 
 **Alternative Instagram clients**
 - [Barinsta](https://barinsta.austinhuang.me/) - The beautiful, open source, and privacy-friendly alternative Instagram client for Android.
