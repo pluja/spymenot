@@ -132,6 +132,9 @@
 ### Local
 - [DigiKam](https://www.digikam.org/) - Awesome Professional Photo Management with the Power of Open Source.
 
+## Audio Editing
+- [Tenacity](https://tenacityaudio.org) - A Privacy-Respecting Audacity Fork
+
 ## Photo Editing and Management
 <img width="16" src="misc/forbidden.png"> </img> **Avoid**
 - Adobe Photoshop / Illustrator / Lightroom
