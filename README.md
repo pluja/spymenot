@@ -384,6 +384,7 @@ Third party launchers found on the play store. They may contain ads/trackers and
 - [RocketChat](https://rocket.chat/) - Control your communication, manage your data, and have your own collaboration platform to improve team productivity.
 - [Nextcloud Talk](https://nextcloud.com/talk/) - Keep conversations private with Nextcloud Talk.
 - [Mattermost](https://mattermost.com/) - Open-source Slack alternative.
+- [Wire](https://wire.com/en/) - Modern day collaboration meets the most advanced security and superior user experience.  Fully open source -- both client and server -- and third-party audited.
 
 ## Instant Messaging
 **Check out [this site](https://www.securemessagingapps.com/) for comparisons*.
